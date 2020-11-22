@@ -5,7 +5,7 @@ Celem pracy było znalezienie sztucznej sieci neuronowej służącej do klasyfik
 * [Wyniki (na dysku Google)](https://drive.google.com/drive/folders/1CWwUyckJevgqcemdiRQTdpQhYnwwuz_g?usp=sharing)
 ## 🧰 Wykorzystane technologie i narzędzia
 * **Python**
-* **TensorFlow, Librosa, Matplotlib, NumPy, Pandas, sklearn**
+* **TensorFlow 2, Librosa, Matplotlib, NumPy, Pandas, sklearn**
 * **Spyder IDE**
 ## 🎓 Zdobyta bądź poszerzona wiedza
 * Umiejętność pozyskiwania informacji z angielskiej literatury naukowej

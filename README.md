@@ -4,9 +4,9 @@ Celem pracy było znalezienie sztucznej sieci neuronowej służącej do klasyfik
 * [Pełen tekst pracy magisterskiej](https://github.com/am-portfolio/Praca-Magisterska/blob/main/AMandrella%20-%20Praca%20Magisterska.pdf)
 * [Wyniki (na dysku Google)](https://drive.google.com/drive/folders/1CWwUyckJevgqcemdiRQTdpQhYnwwuz_g?usp=sharing)
 ## 🧰 Wykorzystane technologie i narzędzia
-* Python
-* TensorFlow, Librosa, Matplotlib, NumPy, Pandas, sklearn
-* Spyder IDE
+* **Python**
+* **TensorFlow, Librosa, Matplotlib, NumPy, Pandas, sklearn**
+* **Spyder IDE**
 ## 🎓 Zdobyta bądź poszerzona wiedza
 * Umiejętność pozyskiwania informacji z angielskiej literatury naukowej
 * Teoria z zakresu uczenia maszynowego i sieci neuronowych

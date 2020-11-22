@@ -1,0 +1,2 @@
+Pliki używane w skrypcie
+script_0_various_plots

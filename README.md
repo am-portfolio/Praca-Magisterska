@@ -1,8 +1,8 @@
 # Aron Mandrella – Praca Magisterska (2020)
-[![](https://github.com/am-portfolio/Praca-Magisterska/blob/main/GitHub_Thumbnail.png)](https://github.com/am-portfolio/Praca-Magisterska)
+[![](https://github.com/aronmandrella/Praca-Magisterska/blob/main/GitHub_Thumbnail.png)](https://github.com/aronmandrella/Praca-Magisterska)
 ## Opis
 Celem pracy było znalezienie sztucznej sieci neuronowej służącej do klasyfikacji dźwięków perkusyjnych zapewniającej wysoką dokładność. Największą uwagę przyłożono do konwolucyjnych sieci neuronowych. W ramach badań testowano różne metody reprezentacji dźwięku i różne techniki trenowania sieci neuronowych.
-* [Pełen tekst pracy magisterskiej](https://github.com/am-portfolio/Praca-Magisterska/blob/main/AMandrella%20-%20Praca%20Magisterska.pdf)
+* [Pełen tekst pracy magisterskiej](https://github.com/aronmandrella/Praca-Magisterska/blob/main/AMandrella%20-%20Praca%20Magisterska.pdf)
 * [Wyniki (na dysku Google)](https://drive.google.com/drive/folders/1CWwUyckJevgqcemdiRQTdpQhYnwwuz_g?usp=sharing)
 ## 🧰 Wykorzystane technologie i narzędzia
 * **Python**

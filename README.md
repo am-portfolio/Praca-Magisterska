@@ -16,11 +16,12 @@ Celem pracy było znalezienie sztucznej sieci neuronowej służącej do klasyfik
 * Metody analizy i reprezentacji dźwięku (transformacja Fouriera, spektrogram, transformacja ze stałym Q, transformata cosinusowa, współczynniki mel-cepstralne)
 * Metody walidacji modeli stworzonych metodą uczenia maszynowego (walidacja krzyżowa, tablice pomyłek, wskaźniki jakości klasyfikacji itp.)
 * Akademickie metody statystycznej analizy zebranych danych (np. wykresy pudełkowe)
+
+## Przykładowy kod (funkcja tworzenia modelu)
 ```python
 # Moduły napisane na potrzeby pracy
 from pymodules.mlevaluator import *
 from pymodules.anntrainer import *
-from pymodules.dnnmaker import*
 
 import tensorflow as tf
 

@@ -8,8 +8,10 @@
 
 Celem pracy było znalezienie sztucznej sieci neuronowej służącej do klasyfikacji dźwięków perkusyjnych zapewniającej wysoką dokładność. Największą uwagę przyłożono do konwolucyjnych sieci neuronowych. W ramach badań testowano różne metody reprezentacji dźwięku i różne techniki trenowania sieci neuronowych.
 
-* [Pełen tekst pracy magisterskiej](https://github.com/aronmandrella/PracaMagisterska/blob/main/AMandrella%20-%20Praca%20Magisterska.pdf)
-* [Wyniki (na dysku Google)](https://drive.google.com/drive/folders/1CWwUyckJevgqcemdiRQTdpQhYnwwuz_g?usp=sharing)
+[Pełen tekst pracy magisterskiej](https://github.com/aronmandrella/PracaMagisterska/blob/main/AMandrella%20-%20Praca%20Magisterska.pdf)
+[Wyniki (na dysku Google)](https://drive.google.com/drive/folders/1CWwUyckJevgqcemdiRQTdpQhYnwwuz_g?usp=sharing)
+
+↩️ [Powrót do portfolio](https://github.com/aronmandrella/portfolio#spis-tre%C5%9Bci)
 
 ## 🧰 Wykorzystane technologie i narzędzia
 * **Python**

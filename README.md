@@ -1,8 +1,8 @@
 # Praca Magisterska (2020)
 
-![ThumbnailPNG](https://raw.githubusercontent.com/aronmandrella/PracaMagisterska/main/GitHub_Thumbnail.png)
-
 **Autor**: Aron Mandrella
+
+![ThumbnailPNG](https://raw.githubusercontent.com/aronmandrella/PracaMagisterska/main/GitHub_Thumbnail.png)
 
 ## Opis
 

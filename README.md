@@ -12,8 +12,6 @@ Celem pracy było znalezienie sztucznej sieci neuronowej służącej do klasyfik
 
 [Wyniki (na dysku Google)](https://drive.google.com/drive/folders/1CWwUyckJevgqcemdiRQTdpQhYnwwuz_g?usp=sharing)
 
-↩️ [Powrót do portfolio](https://github.com/aronmandrella/portfolio#spis-tre%C5%9Bci)
-
 ## 🧰 Wykorzystane technologie i narzędzia
 * **Python**
 * **TensorFlow 2, Librosa, Matplotlib, NumPy, Pandas, sklearn**

@@ -1,3 +1,6 @@
+# ⚠️ Unfortunately my phone number won't be available for few days due to my old contract termination. If you need to contact me, please use my e-mail: aron.mandrella@gmail.com.
+# I'm sorry for the inconvenience. Thank you.   
+
 # Master’s Thesis (2020)
 
 **Author**: Aron Mandrella

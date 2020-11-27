@@ -1,28 +1,25 @@
-# Praca Magisterska (2020)
+# Master’s Thesis (2020)
 
-**Autor**: Aron Mandrella
+**Author**: Aron Mandrella
 
-![ThumbnailPNG](https://raw.githubusercontent.com/aronmandrella/PracaMagisterska/main/GitHub_Thumbnail.png)
+![ThumbnailPNG](https://raw.githubusercontent.com/aronmandrella/ MastersThesis /main/GitHub_Thumbnail.png)
 
-## Opis
+## About
 
-Celem pracy było znalezienie sztucznej sieci neuronowej służącej do klasyfikacji dźwięków perkusyjnych zapewniającej wysoką dokładność. Największą uwagę przyłożono do konwolucyjnych sieci neuronowych. W ramach badań testowano różne metody reprezentacji dźwięku i różne techniki trenowania sieci neuronowych.
+The aim of the thesis was to find an artificial neural network that would provide high accuracy when used for classification of percussive sounds. Both regular neural networks and convolutional neural networks were tested. Tests were carried out with few various audio representation (various inputs), and with various model training approaches (dropout, batch normalization, stride, max-pool).
+[Master’s Thesis PDF](https://github.com/aronmandrella/ MastersThesis /raw/main/AMandrella%20-%20Praca%20Magisterska.pdf)
 
-[Pełen tekst pracy magisterskiej](https://github.com/aronmandrella/PracaMagisterska/raw/main/AMandrella%20-%20Praca%20Magisterska.pdf)
+[Results (Google Drive)](https://drive.google.com/drive/folders/1CWwUyckJevgqcemdiRQTdpQhYnwwuz_g?usp=sharing)
 
-[Wyniki (na dysku Google)](https://drive.google.com/drive/folders/1CWwUyckJevgqcemdiRQTdpQhYnwwuz_g?usp=sharing)
-
-## 🧰 Wykorzystane technologie i narzędzia
+## 🧰 Used tools:
 * **Python**
 * **TensorFlow 2, Librosa, Matplotlib, NumPy, Pandas, sklearn**
 * **Spyder IDE**
 
-## 🎓 Zdobyta bądź poszerzona wiedza
-* Umiejętność pozyskiwania informacji z angielskiej literatury naukowej
-* Teoria z zakresu uczenia maszynowego i sieci neuronowych
-* Metody normalizacji danych
-* Algorytmy gradientowe
-* Nowe metody uczenia sieci neuronowych (dropout, batch normalisation) 
-* Metody analizy i reprezentacji dźwięku (transformacja Fouriera, spektrogram, transformacja ze stałym Q, transformata cosinusowa, współczynniki mel-cepstralne)
-* Metody walidacji modeli stworzonych metodą uczenia maszynowego (walidacja krzyżowa, tablice pomyłek, wskaźniki jakości klasyfikacji itp.)
-* Akademickie metody statystycznej analizy zebranych danych (np. wykresy pudełkowe)
+## 🎓 Knowledge I’ve gained or improved:
+* Data normalization
+* Gradient descent algorithms (GD, SGD, ADAM, RMSProp, parameters meaning)
+* Various methods of preventing overfitting (dropout, batch normalization)
+* Methods of sound analysis and sound representation (Fourier transform, spectrogram, constant Q transform, cosine transform, mel-cepstral coefficients)
+* Model validation techniques (cross-validation, confusion matrix, classification accuracy, etc.)
+* Academic methods of statistical analysis of collected data (e.g. box plots, plots, t-sne)

@@ -9,7 +9,7 @@
 The aim of the thesis was to find an artificial neural network that would provide high accuracy when used for classification of percussive sounds. Both regular neural networks and convolutional neural networks were tested. Tests were carried out with few various audio representation (various inputs), and with various model training approaches (dropout, batch normalization, stride, max-pool).
 
 * [Master’s Thesis PDF](https://github.com/aronmandrella/MastersThesis/raw/main/AMandrella%20-%20Praca%20Magisterska.pdf)
-* [Results (Google Drive)](https://drive.google.com/drive/folders/1CWwUyckJevgqcemdiRQTdpQhYnwwuz_g?usp=sharing)
+* [Results ZIPs (Google Drive)](https://drive.google.com/drive/folders/1CWwUyckJevgqcemdiRQTdpQhYnwwuz_g?usp=sharing)
 
 ## 🧰 Used tools:
 * **Python**

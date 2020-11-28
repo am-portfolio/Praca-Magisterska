@@ -1,4 +1,4 @@
-# ⚠️ Unfortunately my phone number won't be available for few days due to my old contract termination. If you need to contact me, please use my e-mail: aron.mandrella@gmail.com
+# ⚠️ Unfortunately my phone number won't be available for few days due to my old contract termination. If you decide to contact me, please use my e-mail: aron.mandrella@gmail.com
 # I'm very sorry. Thank you.   
 
 # Master’s Thesis (2020)
